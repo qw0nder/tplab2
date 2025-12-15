@@ -1,0 +1,17 @@
+4
+Petrov P.P.
+CS-102
+4
+3 4 3 5 
+Sidorov S.S.
+CS-103
+5
+4 4 4 4 5 
+C C.C.
+cs-100
+5
+3 5 5 5 5 
+Ivanov I.I.
+CS-101
+4
+5 5 4 5
